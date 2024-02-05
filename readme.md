@@ -24,7 +24,7 @@ Implement the solution using Jupyter notebook for a hands-on experience in time 
 CodeAlpha is a leading software development company dedicated to nurturing talent and innovation.
 The internship program reflects our commitment to providing a dynamic learning environment and valuable real-world experience.
 
-# About Dataset:
+## About Dataset:
 
 The dataset captures the historical stock price information for Apple Inc., offering a comprehensive perspective on the company's financial performance over time. Each record corresponds to a specific date, beginning from December 12, 1980. Here's a breakdown of the dataset columns:
 
