@@ -4,25 +4,22 @@
 
 The CodeAlpha Internship Project - Stock Prediction Task aims to provide participants with a hands-on experience in time series forecasting using Long Short-Term Memory (LSTM) networks. This project offers an opportunity to delve into the world of stock price prediction, utilizing cutting-edge techniques in data science.
 
-## Objectives:
-
-1. **LSTM Implementation:** Gain practical experience in implementing LSTM for time series forecasting.
-2. **Stock Price Prediction:** Develop a system capable of predicting the stock price of a chosen company.
-3. **Jupyter Notebook Usage:** Implement the solution using Jupyter Notebook, providing a seamless and interactive coding experience.
-
-## Task Overview:
-
-### Data Science Task:
+## Data Science Task:
 
 #### Task 2 - Stock Prediction:
 
 Utilize LSTM to predict the stock price of a chosen company.
 Implement the solution using Jupyter notebook for a hands-on experience in time series forecasting.
 
+## Objectives:
+
+1. **LSTM Implementation:** Gain practical experience in implementing LSTM for time series forecasting.
+2. **Stock Price Prediction:** Develop a system capable of predicting the stock price of a chosen company.
+3. **Jupyter Notebook Usage:** Implement the solution using Jupyter Notebook, providing a seamless and interactive coding experience.
+
 ## About CodeAlpha:
 
 CodeAlpha is a leading software development company dedicated to nurturing talent and innovation.
-The internship program reflects our commitment to providing a dynamic learning environment and valuable real-world experience.
 
 ## About Dataset:
 
