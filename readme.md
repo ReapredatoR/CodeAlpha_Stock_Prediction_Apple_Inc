@@ -9,7 +9,7 @@ The CodeAlpha Internship Project - Stock Prediction Task aims to provide partici
 #### Task 2 - Stock Prediction:
 
 Utilize LSTM to predict the stock price of a chosen company.
-Implement the solution using Jupyter notebook for a hands-on experience in time series forecasting.
+Implement the solution using Jupyter Notebook for a hands-on experience in time series forecasting.
 
 ## Objectives:
 
@@ -23,20 +23,21 @@ CodeAlpha is a leading software development company dedicated to nurturing talen
 
 ## About Dataset:
 
-The dataset captures the historical stock price information for Apple Inc., offering a comprehensive perspective on the company's financial performance over time. Each record corresponds to a specific date, beginning from December 12, 1980 to 2021. Here's a breakdown of the dataset columns:
+The dataset captures the historical stock price information for Apple Inc., offering a comprehensive perspective on the company's financial performance over time. Each record corresponds to a specific date, beginning from December 12, 1980, to 2021. Here's a breakdown of the dataset columns:
 
 - **Date:** The date of the stock price record, providing a chronological timeline for the dataset.
+- **Open:** The opening price, representing the initial trading price of Apple Inc.'s stock on a given day.
+- **High:** The highest stock price during a specific period, providing insights into peak price levels.
+- **Low:** The lowest stock price observed during a defined period, indicating potential fluctuations in value.
+- **Close:** The closing price, representing the last recorded price at the end of a regular trading session.
+- **Adj Close (Adjusted Close):** Adjusts the closing price for corporate actions, offering a more accurate representation of the stock's true value.
+- **Volume:** Measures the number of shares traded, providing insights into interest and activity in Apple Inc.'s stock.
 
-- **Open:** This column signifies the opening price, representing the initial price at which Apple Inc.'s stock started trading on a given day.
+The dataset spans several decades, making it a valuable resource for various analytical purposes, including trend identification, volatility evaluation, and predictive modeling like the ongoing LSTM-based stock price prediction exploration. This dataset contributes significantly to understanding Apple Inc.'s stock performance in the dynamic financial landscape.
 
-- **High:** Reflecting the highest stock price during a specific period, typically a trading day, the High column offers insights into peak price levels.
+## File Locations:
 
-- **Low:** The Low column captures the lowest stock price observed during a defined period, indicating potential fluctuations in value.
-
-- **Close:** Serving as a crucial indicator, the Close column denotes the closing price, representing the last recorded price at the end of a regular trading session.
-
-- **Adj Close (Adjusted Close):** The Adj Close column adjusts the closing price to accommodate corporate actions, such as dividends, stock splits, or new stock offerings. This adjusted value provides a more accurate representation of the stock's true value.
-
-- **Volume:** The Volume column measures the number of shares traded, offering insights into the level of interest and activity in Apple Inc.'s stock. This information is vital for assessing market dynamics.
-
-The dataset spans several decades, offering a rich source of information for various analytical purposes. It's particularly useful for identifying trends, evaluating volatility, and building predictive models, such as the LSTM-based stock price prediction currently under exploration. Overall, this dataset is a valuable resource for understanding the dynamics of Apple Inc.'s stock performance in the dynamic financial landscape.
+- **Code** `main.ipynb`
+- **Data Location:** `Data/AAPL.csv`
+- **Readme File:** `readme.md`
+- **Final Analysis Report:** `final_report.md`
