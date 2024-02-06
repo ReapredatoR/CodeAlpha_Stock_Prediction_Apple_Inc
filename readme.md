@@ -23,7 +23,7 @@ CodeAlpha is a leading software development company dedicated to nurturing talen
 
 ## About Dataset:
 
-The dataset captures the historical stock price information for Apple Inc., offering a comprehensive perspective on the company's financial performance over time. Each record corresponds to a specific date, beginning from December 12, 1980, to 2021. Here's a breakdown of the dataset columns:
+The dataset captures the historical stock price information for Apple Inc., offering a comprehensive perspective on the company's financial performance over time. Each record corresponds to a specific date, beginning from December 12, 1980, to June 17, 2022. Here's a breakdown of the dataset columns:
 
 - **Date:** The date of the stock price record, providing a chronological timeline for the dataset.
 - **Open:** The opening price, representing the initial trading price of Apple Inc.'s stock on a given day.
