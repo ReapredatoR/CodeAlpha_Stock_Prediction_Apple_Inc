@@ -50,11 +50,11 @@ The original dataset can be found on Kaggle: [Apple Stock Price from 1980-2021](
 
 #### LSTM Model Evaluation on Test Set
 
-- MSE: 63.39
-- RMSE: 7.96
-- MAE: 6.78
-- MAPE: 4.68%
-- R2 Score: 0.89
+- MSE: 47.42
+- RMSE: 6.89
+- MAE: 5.89
+- MAPE: 4.13%
+- R2 Score: 0.92
 
 ### Discussion and Learning Outcomes
 
